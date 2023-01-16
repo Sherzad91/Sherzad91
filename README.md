@@ -40,8 +40,8 @@
 <p align="left"> 
 
 
-  <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <a href="https://reactjs.org/">
+    <img alt="REACT" src="https://blog.octo.com/wp-content/uploads/2015/12/react-logo-1000-transparent.png"/>
   </a>
     &emsp;
 <a href="https://www.javascript.com/">
