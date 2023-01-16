@@ -40,9 +40,6 @@
 <p align="left"> 
 
 
-  <a href="https://reactjs.org/">
-    <img alt="REACT" src="https://blog.octo.com/wp-content/uploads/2015/12/react-logo-1000-transparent.png"/>
-  </a>
     &emsp;
 <a href="https://www.javascript.com/">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
