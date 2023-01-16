@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Sherzad91.svg?style=social&label=Followers)](https://github.com/Sherzad91?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EEF715&width=435&lines=Hey!+It's+Sherzad;I'm+frond end +developer+%F0%9F%92%BB;Sometimes+I+work+on+DevOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EEF715&width=435&lines=Hey!+It's+Sherzad+I'm+frond end +developer+%F0%9F%92%BB;Sometimes+I+work+on+DevOps)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Sherzad91&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
