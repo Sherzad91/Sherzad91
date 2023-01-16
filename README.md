@@ -25,14 +25,13 @@
 <a target="_blank" href="mailto:dv.hamakamaran@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://twitter.com/HamayKamar4n"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-&emsp;
+
 <br>
 </p>
 <hr>
 <br>
 
-[![HamaDevek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HamaDevek&theme=github-compact)](https://github.com/HamaDevek/github-readme-activity-graph)
+[![HamaDevek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sherzad91&theme=github-compact)](https://github.com/Sherzad91/github-readme-activity-graph)
 
 ## 🛠️ My Skills
 
