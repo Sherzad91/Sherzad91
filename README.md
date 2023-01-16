@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EEF715&width=435&lines=Hey!+It's+Sherzad;I'm+Full+Stack+developer+%F0%9F%92%BB;Sometimes+I+work+on+DevOps)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=HamaDevek&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<img src="https://komarev.com/ghpvc/?username=Sherzad91&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sherzad91&theme=react" width="450"/>
 
@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on Flutter Projects & Project Management
 - 🌱 I've 2+ Years of professional experience worked at 5Gen Solutions and built 10+ cross-platform applications in Flutter
 - 👯 I’m looking to collaborate on Flutter
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr & Jobstudio.
+- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr & Jobstudio and Lozian Technology.
 - 💬 Ask me about Programming
 - 📫 I am also a technical writer at Medium
 
@@ -22,7 +22,7 @@
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/mhamad-kamaran-4176341a8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:dv.hamakamaran@gmail.com"
+<a target="_blank" href="sherzad_91@hotmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
 
@@ -42,14 +42,6 @@
 
   <a href="https://dart.dev/">
     <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  </a>
-&emsp;
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
-  &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
     &emsp;
 <a href="https://www.javascript.com/">
