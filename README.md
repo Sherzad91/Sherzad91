@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Sherzad91.svg?style=social&label=Followers)](https://github.com/Sherzad91?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EEF715&width=435&lines=Hey!+It's+Sherzad;I'm+Full+Stack+developer+%F0%9F%92%BB;Sometimes+I+work+on+DevOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EEF715&width=435&lines=Hey!+It's+Sherzad;I'm+frond end +developer+%F0%9F%92%BB;Sometimes+I+work+on+DevOps)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Sherzad91&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
@@ -20,7 +20,7 @@
 <p>Connect with me on
 <br>	
 <br>
-<a target="_blank" href="https://www.linkedin.com/in/mhamad-kamaran-4176341a8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/sherzad-hasan-4176341a8/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="sherzad_91@hotmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
@@ -31,7 +31,7 @@
 <hr>
 <br>
 
-[![HamaDevek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sherzad91&theme=github-compact)](https://github.com/Sherzad91/github-readme-activity-graph)
+[![Sherzad91's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sherzad91&theme=github-compact)](https://github.com/Sherzad91/github-readme-activity-graph)
 
 ## 🛠️ My Skills
 
